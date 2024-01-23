@@ -1,2 +1,1 @@
-t('helloworld')
-print('helloworl
+    global string
